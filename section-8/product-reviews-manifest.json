@@ -3,7 +3,7 @@
 
         {
             "URIPrefixes": [
-                "s3://dea-course-wayde/product-reviews/"
+                "s3://dea-course-nemade/product-reviews/"
             ]
         }
     ],
